@@ -1,0 +1,1 @@
+a simpe react webapp for telling current weather of your city using open weather map
